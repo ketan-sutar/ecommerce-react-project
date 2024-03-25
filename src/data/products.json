@@ -1,0 +1,63 @@
+[
+    {
+      "id": "1a",
+      "name": "Ducky One 2",
+      "price": 100,
+      "currency": "USD",
+      "delivery": false,
+      "thumbnail": "https://mks.blr1.cdn.digitaloceanspaces.com/uploads/2021/11/Ducky-white-pudding-10-scaled-jpg.webp",
+      "inStock": true,
+      "categoryId": "fgsa2142fa"
+    },
+    {
+      "id": "2a",
+      "name": "Varmilo Sakura",
+      "price": 140,
+      "currency": "USD",
+      "delivery": true,
+      "thumbnail": "https://mechanicalkeyboards.com/cdn/shop/files/8280_63ae02071ee48_VED87-Sakura.jpg?v=1707270314&width=720",
+      "inStock": true,
+      "categoryId": "fgsa2142fa"
+    },
+    {
+      "id": "3a",
+      "name": "MK Disco",
+      "price": 80,
+      "currency": "USD",
+      "delivery": true,
+      "thumbnail": "https://mechanicalkeyboards.com/cdn/shop/files/4018-2XH3R-Disco-Black-ABS-Keycaps.jpg?v=1708534194&width=720",
+      "inStock": false,
+      "categoryId": "fgsa2142fa"
+    },
+    {
+      "id": "4b",
+      "name": "Razer Kraken",
+      "price": 60,
+      "currency": "USD",
+      "delivery": false,
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71BKQhFzDmL._AC_SY355_.jpg",
+      "inStock": false,
+      "categoryId": "xasgy42fa"
+    },
+    {
+      "id": "5b",
+      "name": "HyperX Cloud II",
+      "price": 115,
+      "currency": "USD",
+      "delivery": false,
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/719KtJ-RAFL._AC_SL1417_.jpg",
+      "inStock": true,
+      "categoryId": "xasgy42fa"
+    },
+    {
+      "id": "6b",
+      "name": "Sennheiser PC 3 Chat",
+      "price": 60,
+      "currency": "USD",
+      "delivery": false,
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61kIoNSe3VL._SL1500_.jpg",
+      "inStock": true,
+      "categoryId": "xasgy42fa"
+    }
+  ]
+  
